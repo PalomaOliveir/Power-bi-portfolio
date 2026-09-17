@@ -4,9 +4,9 @@ Olá! Eu sou Paloma, estudante de Gestão da Tecnologia da Informação e estou 
 
 Aqui estão alguns dos projetos que desenvolvi utilizando Power BI, com foco em análise de dados, criação de indicadores e visualização de informações.
 
-## 📁 Projetos
+##  Projetos
 
-### 📊 Dashboard de Análise de Atendimentos
+###  Dashboard de Análise de Atendimentos
 
 Dashboard desenvolvido para análise de dados de atendimentos, utilizando Power BI, Power Query, DAX e Excel.
 
@@ -14,13 +14,13 @@ Dashboard desenvolvido para análise de dados de atendimentos, utilizando Power 
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 * Power BI
 * Power Query
 * DAX
 * Excel
 
-## 🎯 Em desenvolvimento
+##  Em desenvolvimento
 
 Este portfólio será atualizado com novos projetos de análise de dados e dashboards conforme avanço nos estudos.
